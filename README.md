@@ -62,4 +62,9 @@ bugs: inevitable
 fixes: continuous
 evolution: unstoppable
 <!-- FOOTER --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=000000:0a0014:000000&height=140&section=footer&text=SYSTEM%20STABLE&fontColor=00ff9f&fontSize=20"/> </p> ```
-  
+````
+## 🌐 Conecte-se comigo
+
+<a href="https://www.linkedin.com/in/luiz-fernando-oliveira-a9007b408/" target="_blank">
+  <img src="qrcode-linkedin.png" width="200" alt="QR Code LinkedIn">
+</a>
