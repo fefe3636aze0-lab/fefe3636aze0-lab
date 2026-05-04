@@ -19,7 +19,7 @@
 
 # 🧠 system.identity()
 
-``bash
+```bash
 user: Luiz Fernando
 role: Full Stack Developer
 mode: LEGENDARY
