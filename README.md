@@ -19,7 +19,7 @@
 
 # 🧠 system.identity()
 
-```bash
+``bash
 user: Luiz Fernando
 role: Full Stack Developer
 mode: LEGENDARY
@@ -28,7 +28,7 @@ location: Brazil
 ⚡ tech.stack()
 <p align="center"> <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,html,css,git,github,mysql&theme=dark" /> </p>
 📊 github.analytics()
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=fefe3636aze0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00ff9f&icon_color=00ff9f"/> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=fefe3636aze0&theme=tokyonight&hide_border=true&background=00000000&ring=00ff9f&fire=ff003c&currStreakLabel=00ff9f"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=fefe3636aze0&bg_color=000000&color=00ff9f&line=ff003c&point=ffffff&hide_border=true"/> </p>
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=blackxzin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00ff9f&icon_color=00ff9f"/> <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=blackxzin&theme=tokyonight&hide_border=true&background=00000000&ring=00ff9f&fire=ff003c&currStreakLabel=00ff9f"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=blackxzin&bg_color=000000&color=00ff9f&line=ff003c&point=ffffff&hide_border=true"/> </p>
 🧬 skill.matrix()
 + Java         ███████████░ 80%
 + Python       ██████████░░ 75%
@@ -52,7 +52,7 @@ while(alive){
 ⚙️ live.system()
 <p align="center"> <img src="https://readme-typing-svg.demolab.com/?lines=[SCAN]+projects...;[OK]+systems+running;[WARN]+new+ideas+incoming;[OK]+deploying+updates;[INFO]+coding+mode+enabled&font=Fira%20Code&center=true&width=650&height=40&color=ff003c&pause=500"/> </p>
 🕶️ visitor.counter()
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=fefe3636aze0&label=PROFILE+VIEWS&color=00ff9f&style=for-the-badge"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=blackxzin&label=PROFILE+VIEWS&color=00ff9f&style=for-the-badge"/> </p>
 🌐 network.connect()
 <p align="center"> <a href="https://www.linkedin.com/in/luiz-fernando-oliveira-a9007b408/"> <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00ff9f"/> </a> <a href="mailto:fefe3636aze0@gmail.com"> <img src="https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=ff003c"/> </a> <a href="https://github.com/blackxzin"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=00ff9f"/> </a> </p>
 ☠️ diagnostics.run()
